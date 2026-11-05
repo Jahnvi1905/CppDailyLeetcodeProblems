@@ -14,7 +14,12 @@ public:
                 }
             }
 
-            if (valid) {
+            // if (valid) {
+            //     ans++;
+            // }
+
+            if 
+            (valid == true){
                 ans++;
             }
         }
